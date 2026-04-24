@@ -1,2 +1,2 @@
 # TSQMLE
-This is the repo for paper "[On a new robust method of inference for general time series models](https://arxiv.org/abs/2503.08655)".
+This is the repo for paper "[Weight-calibrated estimation for factor models of high-dimensional time series](https://arxiv.org/abs/2505.01357)".
